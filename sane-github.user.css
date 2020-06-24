@@ -17,9 +17,12 @@
 }
 
 .pagehead {
-	margin-left: 20%;
-	margin-right: 20%;
 	margin-bottom: 16px !important;
+}
+
+.pagehead > [aria-label="Repository"] > ul, .pagehead > div {
+	padding-left: calc(50% - 448.025px)!important;
+	padding-right: calc(50% - 448.025px)!important;
 }
 
 .new-discussion-timeline {
