@@ -20,18 +20,14 @@
 	margin-bottom: 16px !important;
 }
 
-/*
-.pagehead > [aria-label="Repository"] > ul, .pagehead > div {
-	padding-left: calc(50% - 448.025px)!important;
-	padding-right: calc(50% - 448.025px)!important;
+.pagehead > nav > ul, .pagehead > div {
+	margin-left: auto;
+	margin-right: auto;
 }
 
-.new-discussion-timeline {
-	margin-left: 20%;
-	margin-right: 20%;
-	padding: 0 !important;
-}
-*/
+.pagehead > nav > ul { max-width: 1200px; }
+.pagehead > div { max-width: 1280px; }
+
 .repository-content {
 	margin: 0;
 }
