@@ -20,6 +20,7 @@
 	margin-bottom: 16px !important;
 }
 
+/*
 .pagehead > [aria-label="Repository"] > ul, .pagehead > div {
 	padding-left: calc(50% - 448.025px)!important;
 	padding-right: calc(50% - 448.025px)!important;
@@ -30,7 +31,7 @@
 	margin-right: 20%;
 	padding: 0 !important;
 }
-
+*/
 .repository-content {
 	margin: 0;
 }
