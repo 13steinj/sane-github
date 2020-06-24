@@ -87,7 +87,7 @@ a.social-count {
 	border-bottom: 1px solid #444444 !important;
 }
 
-:not(#discussion_bucket):not(#wiki-content):not(.container-xl) > .gutter-condensed {
+body:not(.page-profile) :not(#discussion_bucket):not(#wiki-content):not(.container-xl) > .gutter-condensed {
 	flex-direction: column-reverse !important;
 }
 
