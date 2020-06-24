@@ -43,6 +43,17 @@
 	border-radius: 0.1em !important;
 }
 
+#js-pjax-container > div.container-xl.px-3.px-md-4.px-lg-5 > div > div.flex-shrink-0.col-12.col-md-3.mb-4.mb-md-0 > div {
+	width: 90%;
+	margin-top: 20%!important;
+	margin-left: 5%;
+}
+
+.user-status-circle-badge-container {
+	position: initial;
+	margin-left: 0;
+}
+
 .State {
 	border-radius: 0.25em;
 	padding: 3px 5px;
